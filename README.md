@@ -13,7 +13,7 @@ I used a greedy algorithm technique of choosing the leaf employee with the great
 
 All files consisting of number.in are the files that feed in the number of employees and number of choices in the first line, 
 with subsequent lines being employees represented by 3 values; ID number, boss ID number, and value. Number.out files show the
-correct maximum value for choosing the given number of employees in that tree. THe actual algorithm is solved in Main.py.
+correct maximum value for choosing the given number of employees in that tree. The actual algorithm is solved in Main.py.
 
 
 Code descriptions:
