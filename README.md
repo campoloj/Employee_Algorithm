@@ -4,7 +4,7 @@ Employee Algorithm
 Implementation of an algorithm to optimally choose employees to maximize total "value" in a employment tree.
 
 In detail, this is the solution to the following prompt: Given a tree of n Employees, rooted at the CEO and with 
-each employee having a boss and a value, and a value k, choose n Employees to maximize total value, given that:
+each employee having a boss and a value, and a value k, choose k Employees to maximize total value, given that:
 
  - Each employee adds its value plus the value of every boss in their chain (boss, boss's boss, etc.)
  - Each employee can only provide its value to the total once
